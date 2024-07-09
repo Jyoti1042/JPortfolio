@@ -17,7 +17,7 @@ function About() {
         transition={{duration:0.5}}
          className='w-full lg:w-1/2 lg:p-6'>
         <div className='flex relative justify-center w-full items-center'>
-            <img className='w-5/12 rounded-2xl opacity-85 shadow-custom-inset h-[400px]' src={aboutImg}></img>
+            <img className='w-10/12 lg:w-6/12 rounded-2xl opacity-85 shadow-custom-inset h-[400px]' src={aboutImg}></img>
             
             </div>
         </motion.div>

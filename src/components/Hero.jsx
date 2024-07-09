@@ -43,7 +43,7 @@ function Hero() {
         <div className="w-full  lg:w-1/2 lg:p-8 box-border:inset 0 0 70px 50px black">
         <div className="flex w-full  h-[450px] justify-center ">
             <motion.img 
-            className="rounded-2xl w-5/12 shadow-custom-inset brightness-110"
+            className="rounded-2xl w-10/12 lg:w-6/12 shadow-custom-inset brightness-110"
              initial={{x:100,opacity:0}} 
              animate={{x:0,opacity:1}}
              transition={{duration:1,delay:1.2}}

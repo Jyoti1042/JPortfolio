@@ -40,12 +40,15 @@ function Projects() {
                     <p className='mb-4 text-neutral-400'>{project.description}
                     <span className="text-sm font-medium text-purple-900 underline"> <a href={project?.projectLink} target='blank'>    Project Link</a></span>
 </p>
-                                       {
+<div className="flex flex-wrap">
+
+{
                         project.technologies.map( (tech,index)=>{
                             return <span key={index}
-                            className='mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-900 '>{tech}</span>
+                            className='mr-2 mb-2 rounded bg-neutral-900 px-2 py-1 text-sm  font-medium text-purple-900 '>{tech}</span>
                         })
                     }
+</div>
                  
                 </motion.div>
                  </div>

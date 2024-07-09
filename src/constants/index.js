@@ -13,7 +13,7 @@ I am Jyoti Choudhary, fully passionate, skillful and goal-oriented person.In my 
 and completed many courses as one is comprehensive (MERN Stack Web Development Bootcamp by Love Babbar), where I gained proficiency in HTML, tailwindCSS, JavaScript, React.js, Node.js, and database management,
  reflecting my commitment to continuous learning. I am a dedicated and versatile full stack developer with a passion for creating efficient
   and user-friendly web applications,with internship experience at InCruiter, Bangalore. Known for my adaptability, hard work, and strong time management and logic building skills, 
-  Coming to some personal,I am very spiritual and positive person. I like to see or read astronomy contents and love outdoor wildlife.`
+  Coming to some personal,I am very spiritual and positive person.I like to see or read astronomy contents and love outdoor wildlife.`
 export const EXPERIENCES = [
   {
     duration:"10 October 2023-28 Janurary 2024",
