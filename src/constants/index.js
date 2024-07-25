@@ -16,7 +16,7 @@ and completed many courses as one is comprehensive (MERN Stack Web Development B
   I have a deep love for outdoor wildlife and helping attitude for voicelesses,
    reflecting my curiosity and admiration for the natural world.
     Aspiring to become a Business Women, my unwavering dedication to continuous learning,
-     combined with my multifaceted interests, makes me a truly remarkable person, both professionally and personally.`
+     makes me a truly remarkable person, both professionally and personally.`
 export const EXPERIENCES = [
   {
     duration:"10 October 2023-28 Janurary 2024",
