@@ -5,15 +5,18 @@ import project4 from "../assets/projects/ContentDetective.png";
 import project3 from "../assets/projects/WeatherApp.png";
 
 export const HERO_CONTENT = `I'm a passionate and dedicated MERN stack developer with a knack for creating seamless and 
-responsive web applications.My expertise lies in leveraging Reactjs, Node.js, Express.js, mongoDB and  to build efficient, scalable, and user-friendly solutions and wanted to work for an organization where I can enhance and utilize my skills and knowledge
+responsive web applications.I am a Multitasker and always eager to learn new Technologies. My expertise lies in leveraging Reactjs, Node.js, Express.js, mongoDB and  to build efficient, scalable, and user-friendly solutions and wanted to work for an organization where I can enhance and utilize my skills and knowledge
  to grow along with the organization with full integrity and enthusiasm.`;
 
 export const ABOUT_TEXT = `
-I am Jyoti Choudhary, fully passionate, skillful and goal-oriented person.In my masters I selected Web development as my specialization 
-and completed many courses as one is comprehensive (MERN Stack Web Development Bootcamp by Love Babbar), where I gained proficiency in HTML, tailwindCSS, JavaScript, React.js, Node.js, and database management,
- reflecting my commitment to continuous learning. I am a dedicated and versatile full stack developer with a passion for creating efficient
-  and user-friendly web applications,with internship experience at InCruiter, Bangalore. Known for my adaptability, hard work, and strong time management and logic building skills, 
-  Coming to some personal,I am very spiritual and positive person.I like to see or read astronomy contents and love outdoor wildlife.`
+I am Jyoti Choudhary, a 24-years-old, fully passionate,Innovative and goal-oriented person.In my masters I selected Web development as my specialization 
+and completed many courses as one is comprehensive (MERN Stack Web Development Bootcamp), where I gained proficiency in HTML, tailwindCSS, JavaScript, React.js, Node.js, and database management,
+ reflecting my commitment to continuous learning.
+  On a personal level, my spirituality and positive outlook shine brightly. 
+  I have a deep love for outdoor wildlife and helping attitude for voicelesses,
+   reflecting my curiosity and admiration for the natural world.
+    Aspiring to become a Business Women, my unwavering dedication to continuous learning,
+     combined with my multifaceted interests, makes me a truly remarkable person, both professionally and personally.`
 export const EXPERIENCES = [
   {
     duration:"10 October 2023-28 Janurary 2024",
