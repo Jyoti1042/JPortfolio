@@ -76,7 +76,7 @@ dynamic question display, a timer for each question, and result analysis with a 
         projectLink:`https://react-quiz-application-w65u-git-main-jyoti-choudharys-projects.vercel.app/`
   },
   {
-    title: "FullAuth Backend System",
+    title: "Backend FullAuth System",
     image:project7,
     description:
     `This project is a backend authentication system. It
@@ -84,6 +84,7 @@ includes features for user registration, login, OTP (One-Time Password) generati
 verification, and password reset functionalities. The system uses JWT (JSON Web Tokens) for
 authentication and bcrypt for password hashing. Nodemailer Module is used for sending emails. `, 
         technologies: ["Node.js", "Express.js", "MongoDB", "NodeMailer"],
+        projectLink: `https://github.com/Jyoti1042/BackendAuthApplication`
   },
   {
     title: "Dev Detective (Robust Application for Content Detection) ",
