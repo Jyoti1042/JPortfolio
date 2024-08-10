@@ -40,7 +40,7 @@ export const PROJECTS = [
     Providing Email Verification,   Reset password and Change password facilities 
     Utilized Razorpay,a popular payment gateway solution,Implemented Nodemailer for seamless email communication 
     Integrated MongoDB atlas, Cloudinary,a cloud based media management platform. `,
-        technologies: ["React", "TailwindCss", "React", "Redux", "Node.js", "MongoDB", "ExpressJS"],
+        technologies: ["React", "TailwindCss", "Redux", "Node.js", "MongoDB", "ExpressJS"],
         projectLink:`https://studynotion-frontend.vercel.app/`
   },
   {
@@ -51,7 +51,7 @@ export const PROJECTS = [
     Admin can add products and track orders and users details etc.
     Providing facilities with choose products and set prices by filtering,enabling dark and light modes.
     For payment Integration,utilized RazorPay, Cloud Firestore used for data storage which is a NoSQL database. `, 
-        technologies: ["HTML","CSS", "React", "Redux","Firebase", "FireStore"],
+        technologies: ["Html/Css3", "React", "Redux","Firebase", "FireStore"],
         projectLink:`https://complete-ecommerce-project.vercel.app/`
   },
   {
@@ -60,18 +60,10 @@ export const PROJECTS = [
     description:
     `This websitebuilt with Mern Stack where Users can add and Saves their Recipes data,  offering flexibility and scalability.
     Provided google authentication and authorization for login and Signup. `, 
-technologies: ["HTML", "TailwindCss", "React", "Redux","MongoDB","Node.js","ExpressJs"],
+technologies: ["React", "TailwindCss", "Redux","MongoDB","Node.js","ExpressJs"],
  
   },
-  {
-    title: "Dev Detective (Robust Application for Content Detection) ",
-    image: project4,
-    description:
-    `Used a GitHub API which fetch and show realtime details of any valid github user 
-     Used JavaScript functionlities and css flex which made it fully responsive and enabled dark mode. `, 
-        technologies: ["HTML", "TailwindCss", "JavaScript","API"],
-        projectLink:`https://jyoti1042.github.io/ContentDetectiveApp/`
-  },
+ 
   {
     title: "Online Quiz Application",
     image: project6,
@@ -91,7 +83,16 @@ dynamic question display, a timer for each question, and result analysis with a 
 includes features for user registration, login, OTP (One-Time Password) generation and
 verification, and password reset functionalities. The system uses JWT (JSON Web Tokens) for
 authentication and bcrypt for password hashing. Nodemailer Module is used for sending emails. `, 
-        technologies: ["Node.js", "Express.js", "MongoDB"],
+        technologies: ["Node.js", "Express.js", "MongoDB", "NodeMailer"],
+  },
+  {
+    title: "Dev Detective (Robust Application for Content Detection) ",
+    image: project4,
+    description:
+    `Used a GitHub API which fetch and show realtime details of any valid github user 
+     Used JavaScript functionlities and css flex which made it fully responsive and enabled dark mode. `, 
+        technologies: ["HTML/Css3", "Tailwind", "JavaScript","Github APIs"],
+        projectLink:`https://jyoti1042.github.io/ContentDetectiveApp/`
   },
   
   {
@@ -105,7 +106,7 @@ authentication and bcrypt for password hashing. Nodemailer Module is used for se
  - Temperature in Celsius 🌡️
  - Wind speed 💨
  - Humidity and cloudiness percentages. `, 
-        technologies: ["HTML", "tailwindCss", "javaScript","API"],
+        technologies: ["HTML", "TailwindCss", "JavaScript","APIs"],
         projectLink:`https://jyoti1042.github.io/weatherapp/`
   },
 
