@@ -11,7 +11,11 @@ responsive web applications.I am a Multitasker and always eager to learn new Tec
  to grow along with the organization with full integrity and enthusiasm.`;
 
 export const ABOUT_TEXT = `
+<<<<<<< HEAD
 I am Jyoti Choudhary, a 24-year-old, fully passionate and innovative person. In my master's program, I specialized in web development and completed many courses, including a comprehensive MERN Stack Web Development Bootcamp, reflecting my commitment to continuous learning. On a personal level, my spirituality and positive outlook shine brightly. I have a deep love for outdoor wildlife and a strong desire to help the voiceless, reflecting my curiosity and
+=======
+I am Jyoti Choudhary, a 24-year-old, fully passionate and innovative person. In my master's program, I specialized in web development and completed many courses, including a comprehensive MERN Stack Web Development Bootcamp, reflecting my commitment to continuous learning.I am open to work opportunities in different locations around the world. On a personal level, my spirituality and positive outlook shine brightly. I have a deep love for outdoor wildlife and a strong desire to help the voiceless, reflecting my curiosity and
+>>>>>>> master
  admiration for the natural world. Aspiring to become a businesswoman,
   my unwavering dedication to continuous learning makes me a truly remarkable person, 
   both professionally and personally. `
