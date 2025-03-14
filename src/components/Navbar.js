@@ -16,13 +16,9 @@ function Navbar() {
             <a href="https://www.linkedin.com/in/jyoti-choudhary6/" target="_blank" ><FaLinkedin></FaLinkedin></a>
             <a href="https://github.com/jyoti1042" target="_blank" ><FaGithub></FaGithub></a> 
             <a href="mailto:jchoudhary6767@gmail.com"><BiLogoGmail></BiLogoGmail></a>
-            <a href="https://drive.google.com/file/d/1xZ5v5ke9MZUAnrpxqn3gosOMX4url_Je/view?usp=sharing" target="_blank"><TbFileCv style={{width:"25px", height:"25px"}}> </TbFileCv></a> 
-
-            </div>
-            
-            
-         
-  </nav>
+            <a href="https://drive.google.com/file/d/11hYhRzb3PqpC7FWIq3lcYaTsVEgFxO1Q/view" target="_blank"><TbFileCv style={{width:"25px", height:"25px"}}> </TbFileCv></a> 
+             </div>
+           </nav>
   )
 }
 
