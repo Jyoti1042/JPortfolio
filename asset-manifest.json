@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JPortfolio/static/css/main.a48f4a5d.css",
-    "main.js": "/JPortfolio/static/js/main.c4ac0b6c.js",
+    "main.css": "/JPortfolio/static/css/main.b62d51ed.css",
+    "main.js": "/JPortfolio/static/js/main.456b5d09.js",
     "static/js/453.1407b060.chunk.js": "/JPortfolio/static/js/453.1407b060.chunk.js",
     "static/media/ECommerce.png": "/JPortfolio/static/media/ECommerce.b4840bda3e81de111a65.png",
     "static/media/StudyApp.png": "/JPortfolio/static/media/StudyApp.f74a7e058f37a8833c1d.png",
@@ -14,12 +14,12 @@
     "static/media/auth_flow.png": "/JPortfolio/static/media/auth_flow.ef5d52631418bbb121e3.png",
     "static/media/logo.svg": "/JPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/JPortfolio/index.html",
-    "main.a48f4a5d.css.map": "/JPortfolio/static/css/main.a48f4a5d.css.map",
-    "main.c4ac0b6c.js.map": "/JPortfolio/static/js/main.c4ac0b6c.js.map",
+    "main.b62d51ed.css.map": "/JPortfolio/static/css/main.b62d51ed.css.map",
+    "main.456b5d09.js.map": "/JPortfolio/static/js/main.456b5d09.js.map",
     "453.1407b060.chunk.js.map": "/JPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a48f4a5d.css",
-    "static/js/main.c4ac0b6c.js"
+    "static/css/main.b62d51ed.css",
+    "static/js/main.456b5d09.js"
   ]
 }
