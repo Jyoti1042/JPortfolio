@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/JPortfolio/static/css/main.b62d51ed.css",
-    "main.js": "/JPortfolio/static/js/main.456b5d09.js",
+    "main.css": "/JPortfolio/static/css/main.9f3a4770.css",
+    "main.js": "/JPortfolio/static/js/main.7e96f392.js",
     "static/js/453.1407b060.chunk.js": "/JPortfolio/static/js/453.1407b060.chunk.js",
     "static/media/ECommerce.png": "/JPortfolio/static/media/ECommerce.b4840bda3e81de111a65.png",
     "static/media/StudyApp.png": "/JPortfolio/static/media/StudyApp.f74a7e058f37a8833c1d.png",
     "static/media/WeatherApp.png": "/JPortfolio/static/media/WeatherApp.2d3895b5e08de89c41ef.png",
     "static/media/quizApplication.png": "/JPortfolio/static/media/quizApplication.82c8599927a5cd08771c.png",
     "static/media/RecipeApp.jpeg": "/JPortfolio/static/media/RecipeApp.47da02f48d0282b313bb.jpeg",
-    "static/media/myimage1.jpeg": "/JPortfolio/static/media/myimage1.71348bf20e87575b6edb.jpeg",
     "static/media/ContentDetective.png": "/JPortfolio/static/media/ContentDetective.bfd46e9ec92afa01a1fa.png",
-    "static/media/imgAbout.jpeg": "/JPortfolio/static/media/imgAbout.a034aaaa9ebbd32482af.jpeg",
     "static/media/auth_flow.png": "/JPortfolio/static/media/auth_flow.ef5d52631418bbb121e3.png",
     "static/media/logo.svg": "/JPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/JPortfolio/index.html",
-    "main.b62d51ed.css.map": "/JPortfolio/static/css/main.b62d51ed.css.map",
-    "main.456b5d09.js.map": "/JPortfolio/static/js/main.456b5d09.js.map",
+    "main.9f3a4770.css.map": "/JPortfolio/static/css/main.9f3a4770.css.map",
+    "main.7e96f392.js.map": "/JPortfolio/static/js/main.7e96f392.js.map",
     "453.1407b060.chunk.js.map": "/JPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b62d51ed.css",
-    "static/js/main.456b5d09.js"
+    "static/css/main.9f3a4770.css",
+    "static/js/main.7e96f392.js"
   ]
 }
