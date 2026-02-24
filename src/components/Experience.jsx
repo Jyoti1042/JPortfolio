@@ -33,6 +33,15 @@ function Experience() {
             className='w-full max-w-xl lg:w-3/4'>
                 <h6 className='mb-2 font-semibold'>{exp.role} - <span className='text-sm text-purple-100'>{exp.company}</span></h6>
                 <p className='mb-4 text-neutral-400'>{exp.description}</p>
+                {Array.isArray(exp.highlights) && exp.highlights.length > 0 && (
+                  <ul className="mb-4 list-disc pl-5 text-neutral-400">
+                    {exp.highlights.map((point, highlightIndex) => (
+                      <li key={highlightIndex} className="mb-2">
+                        {point}
+                      </li>
+                    ))}
+                  </ul>
+                )}
                 {
                     exp.technologies.map( (tech,index)=>{
                         return  <span key={index} className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-purple-800 text-sm font-medium">{tech}</span>

@@ -8,7 +8,6 @@ import { TbBrandRedux } from "react-icons/tb";
 import { SiExpress } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
-import { FaJava } from "react-icons/fa";
 import { motion } from "framer-motion";
 import { RiNextjsFill } from "react-icons/ri";
 import { SiFirebase } from "react-icons/si";
@@ -163,15 +162,6 @@ function Technologies() {
           <span className="mt-2 text-[16px]"> Firebase</span>
         </motion.div>
 
-        <motion.div
-          variants={iconVariants(5.5)}
-          initial="initial"
-          animate="animate"
-          className="rounded-2xl border-4 border-neutral-800 p-4 flex flex-col items-center"
-        >
-          <FaJava className="text-7xl text-red-700" />
-          <span className="mt-2 text-lg">Java</span>
-        </motion.div>
       </motion.div>
     </div>
   );

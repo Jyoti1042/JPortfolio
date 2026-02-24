@@ -6,32 +6,71 @@ import project3 from "../assets/projects/WeatherApp.png";
 import project6 from "../assets/projects/quizApplication.png";
 import project7 from "../assets/projects/auth_flow.png";
 
-export const HERO_CONTENT = `I’m a passionate and dedicated MERN stack developer with a focus on creating seamless and responsive web applications. With expertise in React.js, Next.js, Node.js and MongoDB, I specialize in building efficient, scalable, and user-friendly solutions. As a multitasker and lifelong learner, I’m always eager to explore new technologies. I’m looking for an opportunity where I can leverage my skills to contribute to the organization’s growth while continuing to learn, evolve, and work with integrity and enthusiasm.`;
+export const HERO_CONTENT = `Software development engineer with hands-on experience building scalable web products across ed-tech platforms. I specialize in React.js and Next.js, with strong focus on performance optimization, SEO-first development, and reusable component architecture. I have delivered end-to-end features such as booking flows, curriculum explorers, dashboard modules, and content automation tools. I enjoy owning product experiences, solving real user problems, and building reliable interfaces that are fast, accessible, and maintainable.`;
 
-export const ABOUT_TEXT = `I’m Jyoti Choudhary, 24-year-old web developer with one year of experience. I am open to exciting work opportunities around the world. I hold a master's degree in Computer Aplications. On a personal level, my spirituality and positive outlook shine brightly. I have a deep love for outdoor wildlife and a strong desire to help the voiceless, reflecting my curiosity and admiration for the natural world. Aspiring to become a businesswoman, my unwavering dedication to continuous learning makes me a truly remarkable person, both professionally and personally. `;
+export const ABOUT_TEXT = `I am Jyoti Choudhary, a software development engineer with experience building production-ready web applications using React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS. I focus on creating responsive, accessible interfaces and improving performance through techniques like lazy loading, caching, code splitting, and efficient rendering. I hold a Master of Computer Applications from Vellore Institute of Technology and enjoy collaborating across teams to deliver high-impact product features with clean, maintainable code.`;
 
 export const EXPERIENCES = [
   {
-    duration: "August 2024 - Present",
-    role: "SDE Intern",
-    company: "BrightCHAMPS, Bangalore",
+    duration: "May 2025 - Present",
+    role: "Software Development Engineer 1",
+    company: "BrightChamps, Bangalore",
     description:
-      "Contributed as a Software Development Intern at a leading tech company in Bangalore, where I developed scalable front-end solutions using React, TypeScript, Next.js, and SCSS. I optimized website performance, implemented Redux for efficient state management, and collaborated with designers to translate mockups into responsive, visually appealing UI components. Additionally, I worked with backend developers to integrate RESTful APIs, ensuring seamless data flow and timely feature delivery.",
+      "Single-handedly owned and maintained brightchamps.com for over a year, building server-side rendered pages in Next.js.",
+    highlights: [
+      "Built pages with caching and performance optimization for fast page loads.",
+      "Improved website performance through lazy loading, caching strategies, and code splitting, significantly reducing load times and enhancing Core Web Vitals.",
+      "Developed key product features end-to-end including booking flow, course filters, curriculum explorer, hackathon pages, and teacher listing, directly impacting user engagement.",
+      "Built SEO-optimized pages and blog templates integrated with an internal CMS, enabling content teams to compose pages using reusable components without developer intervention.",
+      "Developed worksheet pages and a curriculum-to-PDF generation feature, automating content delivery for students and educators.",
+    ],
     technologies: [
-      "React",
       "Next.js",
+      "React",
       "TypeScript",
-      "SCSS",
       "Redux",
-      "RESTful APIs",
+      "SCSS",
+      "SEO",
+      "CMS",
     ],
   },
   {
-    duration: "October 2023- Janurary 2024",
-    role: "Frontend Developer Intern",
+    duration: "August 2024 - May 2025",
+    role: "Software Development Engineer Intern",
+    company: "LightChamps, Bangalore",
+    description:
+      "Contributed to building a revamped student dashboard in React and Next.js, enabling students to join classes, explore curriculum, and track progress in an optimized interface.",
+    highlights: [
+      "Built a microfrontend-based Feed feature within the dashboard repository, implementing list virtualization for infinite scrolling to handle large data sets efficiently.",
+      "Developed multiple dashboard modules including Rewards, Calendar, and Certificates pages, improving student engagement and platform usability.",
+    ],
+    technologies: [
+      "React",
+      "Next.js",
+      "Microfrontend",
+      "Virtualization",
+      "JavaScript",
+    ],
+  },
+  {
+    duration: "October 2023 - February 2024",
+    role: "Software Development Engineer Intern",
     company: "InCruiter, Bangalore",
-    description: `As a Frontend Developer Intern at InCruiter, I played a key role in enhancing the company's website by building modern, responsive user interfaces using React, Next.js, CSS, and Tailwind CSS. I leveraged browser debugging and profiling tools to identify and resolve performance issues, ensuring optimal functionality across different devices. By collaborating closely with the team, I continuously iterated on website designs, incorporating feedback and following industry best practices to improve both usability and user experience.`,
-    technologies: ["React", "JavaScript", "Redux", "TailwindCss"],
+    description:
+      "Developed responsive, accessible web pages and reusable components using React.js, Next.js, JavaScript, and Tailwind CSS under the guidance of senior engineers.",
+    highlights: [
+      "Gained hands-on experience in the software development lifecycle (SDLC), including code reviews, QA testing, and iterative deployment workflows.",
+      "Collaborated with senior developers to build optimized UI components, applying performance best practices such as memoization and efficient re-rendering.",
+      "Used Chrome DevTools and Lighthouse to profile and debug frontend issues, improving page performance and accessibility scores.",
+    ],
+    technologies: [
+      "React.js",
+      "Next.js",
+      "JavaScript",
+      "Tailwind CSS",
+      "Chrome DevTools",
+      "Lighthouse",
+    ],
   },
 ];
 
@@ -125,7 +164,7 @@ authentication and bcrypt for password hashing. Nodemailer Module is used for se
 ];
 
 export const CONTACT = {
-  address: "Bhiwani,Haryana (India)",
+  address: "Bangalore,Karnataka (India)",
   phoneNo: "+91 9817524677",
   email: "jchoudhary6767@gmail.com",
 };
