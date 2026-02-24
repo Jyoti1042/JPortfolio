@@ -3,7 +3,7 @@ import {EXPERIENCES} from "../constants/index.js"
 import {motion} from "framer-motion"
 function Experience() {
   return (
-    <div className='border-b border-neutral-900 pb-4'>
+    <div className='border-b border-neutral-900 pb-4 pt-10 md:pt-4'>
     <motion.h1
       whileInView={{opacity:1, y:0}}
     initial={{opacity:0,y:-100}}
@@ -42,11 +42,18 @@ function Experience() {
                     ))}
                   </ul>
                 )}
-                {
-                    exp.technologies.map( (tech,index)=>{
-                        return  <span key={index} className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-purple-800 text-sm font-medium">{tech}</span>
-                    })
-                }
+                <div className="mt-4 mb-6 flex flex-wrap gap-2">
+                  {exp.technologies.map((tech, index) => {
+                    return (
+                      <span
+                        key={index}
+                        className="rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800"
+                      >
+                        {tech}
+                      </span>
+                    );
+                  })}
+                </div>
             </motion.div>
 
 

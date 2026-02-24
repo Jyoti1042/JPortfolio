@@ -6,9 +6,7 @@ import project3 from "../assets/projects/WeatherApp.png";
 import project6 from "../assets/projects/quizApplication.png";
 import project7 from "../assets/projects/auth_flow.png";
 
-export const HERO_CONTENT = `Software development engineer with hands-on experience building scalable web products across ed-tech platforms. I specialize in React.js and Next.js, with strong focus on performance optimization, SEO-first development, and reusable component architecture. I have delivered end-to-end features such as booking flows, curriculum explorers, dashboard modules, and content automation tools. I enjoy owning product experiences, solving real user problems, and building reliable interfaces that are fast, accessible, and maintainable.`;
-
-export const ABOUT_TEXT = `I am Jyoti Choudhary, a software development engineer with experience building production-ready web applications using React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS. I focus on creating responsive, accessible interfaces and improving performance through techniques like lazy loading, caching, code splitting, and efficient rendering. I hold a Master of Computer Applications from Vellore Institute of Technology and enjoy collaborating across teams to deliver high-impact product features with clean, maintainable code.`;
+export const HERO_CONTENT = `I am a software development engineer with hands-on experience building scalable, production-ready web applications across ed-tech platforms using React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS. I focus on responsive and accessible interfaces, performance optimization through lazy loading, caching, code splitting, and SEO-first development with reusable component architecture. I hold a Master of Computer Applications from Vellore Institute of Technology and enjoy collaborating across teams to solve real user problems through fast, reliable, and maintainable product experiences.`;
 
 export const EXPERIENCES = [
   {
