@@ -43,11 +43,11 @@ export const EXPERIENCES = [
       "Developed multiple dashboard modules including Rewards, Calendar, and Certificates pages, improving student engagement and platform usability.",
     ],
     technologies: [
-      "React",
-      "Next.js",
-      "Microfrontend",
-      "Virtualization",
+      "HTML/CSS",
       "JavaScript",
+      "React.js",
+      "Microfrontend",
+      "Redux",
     ],
   },
   {
