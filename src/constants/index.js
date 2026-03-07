@@ -35,7 +35,7 @@ export const EXPERIENCES = [
   {
     duration: "August 2024 - May 2025",
     role: "Software Development Engineer Intern",
-    company: "LightChamps, Bangalore",
+    company: "BrightChamps, Bangalore",
     description:
       "Contributed to building a revamped student dashboard in React and Next.js, enabling students to join classes, explore curriculum, and track progress in an optimized interface.",
     highlights: [
