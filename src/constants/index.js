@@ -23,13 +23,12 @@ export const EXPERIENCES = [
       "Developed worksheet pages and a curriculum-to-PDF generation feature, automating content delivery for students and educators.",
     ],
     technologies: [
+      "React.js",
+      "JavaScript",
       "Next.js",
-      "React",
       "TypeScript",
       "Redux",
-      "SCSS",
-      "SEO",
-      "CMS",
+      "Performance",
     ],
   },
   {
